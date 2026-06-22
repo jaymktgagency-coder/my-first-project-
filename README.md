@@ -1,1 +1,2 @@
-This is where i am learning to code and practining git.
+# My First Project
+This is where I am learning to code and practicing Git.
